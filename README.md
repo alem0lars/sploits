@@ -12,7 +12,7 @@ Safari
 
 Firefox
 
-* [CVE-2018-12386](https://github.com/niklasb/sploits/blob/master/firefox/rce-register-misalloc.js)
+* [CVE-2018-12386](https://github.com/niklasb/sploits/blob/master/firefox/rce-register-misalloc.js) (Exploit by saelo & me)
 * [CVE-2018-12387](https://github.com/niklasb/sploits/blob/master/firefox/stack-off-by-8.js)
 
 Chrome:
