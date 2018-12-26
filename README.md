@@ -9,6 +9,8 @@ Safari
 * [CVE-2018-4233](https://github.com/niklasb/sploits/blob/master/safari/createthis.txt)
 * [unnamed RCE #1](https://github.com/niklasb/sploits/blob/master/safari/ftl-butterfly-oob.js)
 * [unnamed RCE #2](https://github.com/niklasb/sploits/blob/master/safari/array-overflow.js)
+* [UXSS 1day](https://github.com/niklasb/sploits/blob/master/safari/regexp-uxss.html)
+* [CVE-2018-4443](https://github.com/niklasb/sploits/blob/master/safari/cve-2018-4443)
 
 Firefox
 
